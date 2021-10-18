@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Silvia Pabon!
+
+- 🔭 I’m currently studying hard.
+- 🧠 I’m currently interested in Data Science, Web Development, Linux and learn any cool and important stuff.
+
 
 <!--
 **SilviaPabon/SilviaPabon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
