@@ -1,14 +1,12 @@
 ### Hi there 👋 I'm Silvia Pabon!
 
-- 🔭 I’m currently studying hard.
-- 🧠 I’m interested in Data Science, Web Development, Linux and learn any cool and important stuff.
-- 👩‍💻 Keep moving forward!
+- 🔭 I’m currently studying hard and improving my skills.
+- 🧠 I’m interested in Software Development, Web Development, Data Science, Linux and learn any cool stuff.
+- 👩‍💻 Let's keep moving forward!
 
-[![Silvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=silviapabon)](https://github.com/anuraghazra/github-readme-stats)
+![Silvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=silviapabon&show_icons=true&theme=transparent)
 
-[![Silvia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silviapabon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Silvia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silviapabon&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SilviaPabon/SilviaPabon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
